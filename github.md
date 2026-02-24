@@ -14,7 +14,8 @@ personal laptop or a home network. Obviously for collaboration something
 like *github* is the way to go.
 
 In this class you will learn git, and how to use github to maintain a
-git repository. We will use git to submit the three labs.
+git repository. We will use git to submit the three labs, not ELMS.
+Remember, after you graduate, there is no more ELMS. But will be github!
 
 Even if these terms makes sense to you, we will **not** use git *branches*, or
 learn how to submit a *pull request*, or force *main branch protection*.
